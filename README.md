@@ -57,3 +57,6 @@ gifski -o game_of_life.gif output/game_of_life*.png
 [![CC 4.0][cc-image]][cc-url]
 
 &copy; [Softax](http://softax.pl)
+
+[cc-url]: http://creativecommons.org/licenses/by/4.0/
+[cc-image]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=flat-square
