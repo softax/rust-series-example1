@@ -1,0 +1,16 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+authors = ["bartekk <bartlomiej.kozielski@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "*"
+rand = "0.7"
+rayon = "1"
+raqote = "*"
+clap = "2"
+indicatif = "*"
+console = "*"
