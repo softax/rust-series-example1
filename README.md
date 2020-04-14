@@ -2,7 +2,7 @@
 
 ## Game Of Life
 
-Example sorce code accompanying the blog article miniseries: Rust in a Nutshel, you can find at: https://www.softax.pl/blog
+Example source code accompanying the blog article mini-series: Rust in a nutshell, which you can find at: https://www.softax.pl/blog
 
 ## Installation
 
